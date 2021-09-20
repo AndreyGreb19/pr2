@@ -14,7 +14,7 @@ class RUN
 
         sub = x - y;
 
-        mul = x * y;
+        mul = x * y+1;
 
         div = x / y;
 
